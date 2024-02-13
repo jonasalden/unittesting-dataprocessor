@@ -1,0 +1,3 @@
+C# Unit Testing
+
+To write robust and high-quality code, unit testing is an essential skill you need. In this course, C# Unit Testing, you’ll learn how to write unit tests in C# to improve the code of your .NET software projects. First, you’ll learn how to create a test project and how to write and run different types of unit tests. Next, you’ll learn how to write testable code in your application by decoupling dependencies and you will learn how to work with Test Driven Development (TDD). Finally, you'll learn how to run your unit tests automatically after every code change by using a GitHub action. When you're finished with this course, you’ll have the skills and knowledge of C# Unit Testing needed to unit test your .NET and C# projects.
